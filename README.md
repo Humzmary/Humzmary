@@ -1,8 +1,9 @@
-## Hi there 👋 I'm Humaira Maryam! I have a masters in Biochemistry
-## 🔭 I’m currently working on Bioinformatics
-## 🌱 I’m currently learning programming languages like Python and R
-## 😄 Pronouns: She/Her
-## ⚡ Fun fact: I am an artist too.
+## Hi there 👋 
+## I'm Humaira Maryam! I have a masters in Biochemistry
+- 🔭 I’m currently working on Bioinformatics
+- 🌱 I’m currently learning programming languages like Python and R
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am an artist too.
 <!--
 **Humzmary/Humzmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
